@@ -1,19 +1,24 @@
 # Front-End-Projects
-Folder containing all current front end examples
+Folders containing all current Front end examples - CURRENTLY Mainly Websites
 
 
 
 
-My clothes and rock Accesories website
+## * My Clothes Retail and Rock Accesories website  ** LIVE and ACTIVE **
 
 <img width="960" alt="frontpageclotheswebsite" src="https://github.com/WAZJACk85/Front-End-Projects/assets/20317523/02470741-24af-47f7-84d5-c305488d031e">
 
 
-Mock Sheffield Cafe website - Link to video capture of this site is on -  https://portfolio.buyshirtsandstuff.com/
+## * Sheffield Cafe website - Link to video capture of this site is on -  https://portfolio.buyshirtsandstuff.com/
 
 <img width="960" alt="frontpageenglishcafe" src="https://github.com/WAZJACk85/Front-End-Projects/assets/20317523/b6dfbf8d-be60-4979-b463-78e9d08fd0f4">
 
 <img width="960" alt="frontpage2englishcafe" src="https://github.com/WAZJACk85/Front-End-Projects/assets/20317523/0e2a65c5-7e96-4719-8ec5-13733423f596">
+
+
+
+## * Estate Agents / Letting agency  Website ** NOT LIVE , Portfolio Piece   **
+
 
 
 
