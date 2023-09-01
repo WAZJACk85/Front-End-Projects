@@ -10,6 +10,7 @@ Folders containing all current Front end examples - CURRENTLY Mainly Websites
 
 
 ## * Sheffield Cafe website - Link to video capture of this site is on -  https://portfolio.buyshirtsandstuff.com/
+## ** NOT LIVE , Portfolio Piece  **
 
 <img width="960" alt="frontpageenglishcafe" src="https://github.com/WAZJACk85/Front-End-Projects/assets/20317523/b6dfbf8d-be60-4979-b463-78e9d08fd0f4">
 
@@ -17,7 +18,7 @@ Folders containing all current Front end examples - CURRENTLY Mainly Websites
 
 
 
-## * Estate Agents / Letting agency  Website ** NOT LIVE , Portfolio Piece   **
+## * Estate Agents / Letting agency  Website ** NOT LIVE , Portfolio Piece  **
 
 
 
