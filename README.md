@@ -20,6 +20,11 @@ Folders containing all current Front end examples - CURRENTLY Mainly Websites
 
 ![webbj_pg1](https://github.com/WAZJACk85/Front-End-Projects/assets/20317523/005bcf40-f9b5-4e7b-871a-f49c24b8b7fd)
 
+![webbj_pg3](https://github.com/WAZJACk85/Front-End-Projects/assets/20317523/9c76d8f7-b44b-4326-9f10-9f2c53336aab)
+
+
+![webbj_pg2](https://github.com/WAZJACk85/Front-End-Projects/assets/20317523/b33f5460-a3dc-49a3-b506-f53dc4ab1829)
+
 
 
 
