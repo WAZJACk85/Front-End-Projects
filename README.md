@@ -31,7 +31,7 @@ Folders containing all current Front end examples - CURRENTLY Mainly Websites
 
 
 
-**OLD Designs** OLD cafe design NOT in Use (updated)
+**OLD Designs** OLD cafe design NO LONGER in Use (updated)
 
 <img width="960" alt="Encafwebss1" src="https://user-images.githubusercontent.com/20317523/220616978-90d9e85f-5a4a-4f78-9a75-4d27872c6a49.png">
 
