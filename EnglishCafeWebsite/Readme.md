@@ -2,9 +2,9 @@ Please see start of my English Cafe website.  See screenshots of main page, all 
 
 ** This webiste contains PHP directed HTML  :   Javascript effects and transitions : PHP design (although this is currently swapped out for JS as suits the current purposes) : JS products basket functions **
 
-Website - Live and interactive
+Website - Interactive - hosted within subdomain
 
-https://buyshirtsandstuff.com
+https://portfolio.buyshirtsandstuff.com/projects/English_cafe/index.html
 
 
 -------------------------------------------------------
