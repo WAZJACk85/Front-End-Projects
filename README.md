@@ -2,7 +2,7 @@
 Folders containing all current Front end examples - CURRENTLY Mainly Websites
 
 
-
+** if you go into each repository you will find link to each interactive website, hosted on my subdomain **
 
 ## * My Clothes Retail and Rock Accesories website  ** LIVE and ACTIVE **
 
