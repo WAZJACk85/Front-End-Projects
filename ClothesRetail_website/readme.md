@@ -1,6 +1,6 @@
 
 
-** This webiste contains PHP directed HTML  :   Javascript effects and transitions : PHP design (although this is currently swapped out for JS as suits the current purposes) : JS products basket functions **
+** This website contains PHP directed HTML  :   Javascript effects and transitions : PHP design (although this is currently swapped out for JS as suits the current purposes) : JS products basket functions **
 
 Website - Live and interactive
 
