@@ -4,7 +4,7 @@ Please see start of my Estate agents / letting agents website.  See screenshots 
 
 Website - Interactive - hosted within subdomain
 
-https://portfolio.buyshirtsandstuff.com/projects/EstateAgents_website/index.html
+https://portfolio.buyshirtsandstuff.com/projects/GuitarShop/index.html
 
 
 -------------------------------------------------------
