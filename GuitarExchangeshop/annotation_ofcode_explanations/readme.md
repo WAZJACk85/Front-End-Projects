@@ -15,3 +15,6 @@ Here is the code:-
 Firstly I took a common piece of filter code with an 'oninput' keyword to facilitate a starting set of code.  I found that this example I found on github was very concise code compared to some and worked well,
 
 I then looked at different keywords to assist in making it behave as an 'onclick' search.  KEYWORD 'onchange' helped make the click search work after the text is changed, rather than as it is being typed.  I then experimented with the onclick features and eventlistners. (more info to come)  but after testing, I decided to use the 'onsubmit' as this collaberated better with the onchange KEYWORD and also with the current code SYNTAX.  
+
+
+NEXT CODE SNIP WILL INCLUDE FULL ANNOTATED DESCRIPTION OF what each section of code does, inculding Glossary of code and keywords at the foot of the description.
