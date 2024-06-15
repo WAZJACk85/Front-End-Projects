@@ -1,4 +1,6 @@
-Please see start of my Estate agents / letting agents website.  See screenshots of main page, all source code files and more screenshots and descriptions to follow shortly.
+Please see start of my Guitar buyer seller website  See screenshots of main page, all source code files and more screenshots and descriptions to follow shortly.
+
+<b>I have also created a search script in javascript, to filter and search on the click of the button.  I manipulated code that was orignally oninput / ontype code and changed it onto and onclick function instead.  In the near future (next 2 weeks) I will add a sub function that clears the search and returns the starting list of items.
 
 ** This webiste contains HTML, JS, CSS :   Javascript effects and transitions : PHP design (although this is currently swapped out for JS as suits the current purposes) : JS products basket functions **
 
