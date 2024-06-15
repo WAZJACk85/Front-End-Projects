@@ -11,7 +11,7 @@ https://portfolio.buyshirtsandstuff.com/projects/GuitarShop/index.html
 
 -------------------------------------------------------
 Configured and hosted on Hostinger
-Previously on Hostgator.  I have 4 years experience using cpanel on both of these services.
+Previously on Hostgator.  I have 4 years experience using cpanel on both of these services.  *photo of search filtered by JS below *
 
 
 ![guitweb2](https://github.com/WAZJACk85/Front-End-Projects/assets/20317523/935cc369-2387-4180-bac0-1d90b20bb842)
