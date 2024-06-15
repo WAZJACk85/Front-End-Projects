@@ -4,7 +4,7 @@ Please see start of my Guitar buyer seller website  See screenshots of main page
 
 ** This webiste contains HTML, JS, CSS :   Javascript effects and transitions : PHP design (although this is currently swapped out for JS as suits the current purposes) : JS products basket functions **
 
-Website - Interactive - hosted within subdomain
+Website - Interactive - hosted within subdomain  -  {    please also see FOLDER ANNOTATIONS FOR FULL EXPLANATIONS WITH PICTURES ABOUT WHAT CODE DOES
 
 https://portfolio.buyshirtsandstuff.com/projects/GuitarShop/index.html
 
